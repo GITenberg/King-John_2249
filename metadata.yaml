@@ -1,0 +1,30 @@
+_repo: King-John_2249
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspere, William
+    - Shakspeare, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: King John of England is pitted against the united powers of France, Brittany,
+  Austria and the papacy. Will England be destroyed by his fatal indecision? As alliances
+  are made, broken and remade, the paranoid and erratic John reveals his weaknesses
+  and reliance on those around him.
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'John, King of England, 1167-1216 -- Drama'
+- !lcsh 'Great Britain -- History -- John, 1199-1216 -- Drama'
+- !lcc 'PR'
+title: King John
+url: http://www.gutenberg.org/ebooks/2249
